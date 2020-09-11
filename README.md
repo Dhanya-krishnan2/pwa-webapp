@@ -27,12 +27,16 @@ To start the server, run `npm start`. To access the app after starting the serve
 ## Example Usage
 
 Deployed App: 
-[](https://floating-garden-88736.herokuapp.com/)
+[heroku link][https://floating-garden-88736.herokuapp.com/]
+
 The github readme is here,
  https://github.com/Dhanya-krishnan2/pwa-webapp/blob/master/README.md
 
 https://github.com/Dhanya-krishnan2/pwa-webapp
+
+
 An example screenshot of the application is below.
+
 
 ![screenshot](/assets/2020-09-11%20(2).png)
 
