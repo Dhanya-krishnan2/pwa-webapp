@@ -30,6 +30,10 @@ Deployed App:
 An example screenshot of the application is below.
 
 ![screenshot](assets/screenshot.jpg)
+![screenshot](2020-09-11 (2).png)
+![screenshot](assets/screenshot.jpg)
+![screenshot](assets/screenshot.jpg)
+![screenshot](assets/screenshot.jpg)
 
 ## License
 
@@ -41,4 +45,4 @@ If you want to contribute, open a Pull Request and include a detailed descriptio
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact [dhanya-krishnan2](https://github.com/dhanya-krishnan) directly at harris.ucla@gmail.com.
+If you have any questions about the repo, open an issue or contact [dhanya-krishnan2](https://github.com/dhanya-krishnan) directly at dhanyakunhi@gmail.com.
