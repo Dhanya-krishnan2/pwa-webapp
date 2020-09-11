@@ -34,11 +34,14 @@ The github readme is here,
 https://github.com/Dhanya-krishnan2/pwa-webapp
 An example screenshot of the application is below.
 
-![screenshot](assets/screenshot.jpg)
-![screenshot](2020-09-11 (2).png)
-![screenshot](assets/screenshot.jpg)
-![screenshot](assets/screenshot.jpg)
-![screenshot](assets/screenshot.jpg)
+![screenshot](/assets/2020-09-11%20(2).png)
+
+![screenshot](/assets/2020-09-11%20(4).png)
+
+![screenshot](/assets/2020-09-11%20(8).png)
+
+![screenshot](/assets/2020-09-11%20(9).png)
+
 
 ## License
 
