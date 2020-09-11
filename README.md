@@ -12,7 +12,7 @@ Budget Tracker is a progressive web application that allows users to track their
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- [Working flow](#working-flow)
+- [Workingflow](#working-flow)
 
 ## Installation
 
